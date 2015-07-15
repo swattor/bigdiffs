@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+#http://jessenoller.com/blog/2008/05/30/making-re-creatable-random-data-files-really-fast-in-python
 import collections
 import os
 
